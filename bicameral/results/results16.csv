@@ -1,0 +1,11 @@
+Metric;Vector Cache;Scalar Cache;Bicameral;White Cache
+Cache height (mm);0.18939;0.18939;0.37878;0.210211
+Cache width (mm);1.99467;2.00288;3.99755;2.00041
+Total area (mm2);0.3777705513;0.3793254432;0.7570959945;0.42050818651
+ Access time (ns);1.28652;1.28652;1.28652;1.31685
+ Random cycle time (ns);1.0928;1.0928;1.0928;1.12063
+ Dynamic read energy (nJ);0.149047;0.149545;0.149545;0.153635
+ Dynamic write energy (nJ);0.145785;0.150179;0.150179;0.159037
+Standby leakage per bank(mW);19.8535;21.1944;41.0479;38.9294
+Total leakage power of a bank (mW);19.8107;21.1484;40.9591;38.8498
+Total gate leakage power of a bank (mW);0.0428674;0.0428674;0.0857348;0.0795289
